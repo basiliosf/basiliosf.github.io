@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>imaxes</recursos>
+        <idioma>1</idioma>
+        <licencia></licencia>
+        <corfondo>0080C0</corfondo>
+        <cornavega>FFFFFF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>A auga</titulo>
+        <autor>Equipo de biblioteca</autor>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="hi01319.mp3" modo="1" >CORRECTO</correcto>
+        <incorrecto son="h00396.mp3" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-18">auga.JPG</imaxe>
+              <texto posx="407" posy="122" ancho="460" largo="191"><![CDATA[
+<p align="left">
+<font color="#000000" face="Arial" size="54"><b>A AUGA</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>1</tipo>
+              <pe>Marca as respostas que che parezan correctas</pe>
+              <imaxe>gota.JPG</imaxe>
+              <texto>Antes de empezar...que sabes sobre a auga? Pincha nas respostas que che parezan verdadeiras. Hai dúas!</texto>
+              <resp texto="" valor="1">A auga que cae da chuvia é a mesma que hai nos ríos e nos mares</resp>
+              <resp texto="" valor="0">A auga é moi importante, pero non imprescindible</resp>
+              <resp texto="" valor="1">A auga é imprescindible: sen ela morrerían os animais e as plantas</resp>
+              <resp texto="" valor="0">A auga que cae da chuvia vén de fóra do noso planeta</resp>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <cabeceira>O planeta azul</cabeceira>
+              <imaxe posx="0" posy="0">planeta.JPG</imaxe>
+              <texto posx="414" posy="16" ancho="288" largo="360"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Arial" size="18">O noso planeta é o planeta da auga. Por iso se chama "planeta azul". <br>
+A auga é un elemento fundamental para a vida. Todos os seres vivos precisan dela para exercer as súas funcións vitais.<br>
+O noso corpo está formado de auga nun 75%.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <cabeceira>Hidróxeno e osíxeno</cabeceira>
+              <imaxe posx="0" posy="0">h2o.JPG</imaxe>
+              <texto posx="290" posy="16" ancho="304" largo="269"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Arial" size="18">A auga está composta de hidróxeno e osíxeno. Por cada dous átomos de hidróxeno, ten un de osíxeno. A súa fórmula é H2O.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="5" >
+              <tipo>1</tipo>
+              <cabeceira>Auga doce e salgada</cabeceira>
+              <imaxe alt="MARCA AS RESPOSTAS QUE CHE PAREZA QUE SON CORRECTAS">doce_salgada.JPG</imaxe>
+              <texto>Se liches ben a diapositiva anterior, saberás dicir cal destas afirmacións é verdade. 
+Aquí tamén hai dúas!</texto>
+              <resp texto="" valor="1">A auga doce é a que está en lagos, ríos e arroios.</resp>
+              <resp texto="" valor="0">A maior parte da auga do planeta é doce, está nos lagos e ríos</resp>
+              <resp texto="" valor="0">A auga salgada sirve para beber</resp>
+              <resp texto="" valor="1">A maior parte da auga do planeta é salgada, está nos mares e océanos.</resp>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <cabeceira>OS ESTADOS DA AUGA</cabeceira>
+              <imaxe posx="0" posy="0">estados.JPG</imaxe>
+              <texto posx="55" posy="227" ancho="621" largo="266"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Arial" size="16">A auga pódese atopar en tres estados: sólido, líquido e gasoso.<br>
+O estado no que se encontra a auga depende da temperatura.<br>
+Se está moi fría, por debaixo de 0º, a auga convértese en xeo, que é o seu estado sólido.<br>
+Se a quencemos, cando pasa dos 100º, a auga evapórase, converténdose en vapor de auga, que é o seu estado gasoso.<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="7" >
+              <tipo>1</tipo>
+              <cabeceira>OS ESTADOS DA AUGA. SÓLIDO</cabeceira>
+              <pe>MARCA AS RESPOSTAS QUE CHE PAREZA QUE SON CORRECTAS. HAI TRES!</pe>
+              <imaxe>solido.JPG</imaxe>
+              <texto>En cales destes casos está a auga en estado sólido?</texto>
+              <resp texto="" valor="1">Nun iceberg</resp>
+              <resp texto="" valor="0">Na chuvia</resp>
+              <resp texto="" valor="1">Na neve</resp>
+              <resp texto="" valor="1">Nos cubitos de neve da neveira</resp>
+        </paxina>
+        <paxina id="8" >
+              <tipo>46</tipo>
+              <cabeceira>OS ESTADOS DA AUGA.</cabeceira>
+              <pe>Relaciona</pe>
+              <etiqueta texto="evapórase"  posy="3">Ao arrefriar moito, a auga convirtese en</etiqueta>
+              <etiqueta texto="temperatura"  posy="1">Cando a auga ferve,</etiqueta>
+              <etiqueta texto="xeo"  posy="2">O estado no que se encontra a auga depende</etiqueta>
+              <etiqueta texto="líquido"  posy="4">A auga que sae pola billa está en estado...</etiqueta>
+        </paxina>
+        <paxina id="9" >
+              <tipo>7</tipo>
+              <cabeceira>LÍQUIDO OU SÓLIDO?</cabeceira>
+              <pe>ARRASTRA CADA IMAXE AO SEU LUGAR</pe>
+              <caixa1>LÍQUIDO</caixa1>
+              <caixa2>SÓLIDO</caixa2>
+              <mini caixa="1">chuvia.JPG</mini>
+              <mini caixa="2">iceberg.JPG</mini>
+              <mini caixa="1">gota.JPG</mini>
+              <mini caixa="2">nubes.JPG</mini>
+              <mini caixa="2">xeo.JPG</mini>
+              <mini caixa="1">riego.JPG</mini>
+              <cfondo>0080C0</cfondo>
+              <cadro></cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <cabeceira>O CICLO DA AUGA</cabeceira>
+              <imaxe posx="0" posy="0">ciclo.JPG</imaxe>
+              <texto posx="578" posy="29" ancho="277" largo="340"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Arial" size="18">A auga que hai na Terra está aquí desde que se formou o noso planeta. Así que leva millóns de anos dando voltas por el: vai dos ríos e mares para as nubes, e de estas volve ao solo.<br>
+Este eterno xirar da auga chámase ciclo da auga.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <cabeceira>O CICLO DA AUGA</cabeceira>
+              <imaxe posx="0" posy="0">ciclo1.JPG</imaxe>
+              <texto posx="26" posy="204" ancho="545" largo="195"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Arial" size="18">Co calor do sol, a auga que hai nos ríos e océanos transfórmase en vapor de auga, que pasa á atmosfera. <br>
+Ao ascender, o vapor arrefría e condénsase en diminutas gotas de auga que forman as nubes.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="12" >
+              <tipo>2</tipo>
+              <cabeceira>O CICLO DA AUGA</cabeceira>
+              <imaxe posx="0" posy="0">ciclo2.JPG</imaxe>
+              <texto posx="265" posy="7" ancho="327" largo="387"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Arial" size="18">As gotas son ao principio tan pequenas que flotan no aire, pero ao moverse co vento chocan entre si e únense, formando gotas cada vez maiores. <br>
+Cando son bastante grandes caen á superficie da terra.<br>
+Esta precipitación pode ser en forma de chuvia, neve ou sarabia.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="13" >
+              <tipo>2</tipo>
+              <cabeceira>O CICLO DA AUGA</cabeceira>
+              <imaxe posx="0" posy="0">ciclo3.JPG</imaxe>
+              <texto posx="0" posy="267" ancho="603" largo="144"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Arial" size="18">A auga que cae nas precipitacións volve a ir para os ríos e océanos. Ou para as augas subterráneas, ao infiltrarse no solo.<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="14" >
+              <tipo>20</tipo>
+              <cabeceira>O CICLO DA AUGA</cabeceira>
+              <pe>PASA O RATO PARA VER O NOME DE CADA COUSA</pe>
+              <imaxe>ciclo.JPG</imaxe>
+              <modo>5</modo>
+              <etiqueta posx="429" posy="257">Evaporación</etiqueta>
+              <etiqueta posx="412" posy="100">Condensación</etiqueta>
+              <etiqueta posx="292" posy="144">Chuvia</etiqueta>
+              <etiqueta posx="122" posy="92">Neve</etiqueta>
+              <etiqueta posx="78" posy="184">Filtración</etiqueta>
+              <etiqueta posx="115" posy="262">Augas subterráneas</etiqueta>
+        </paxina>
+        <paxina id="15" >
+              <tipo>20</tipo>
+              <cabeceira>O CICLO DA AUGA</cabeceira>
+              <pe>PASA O RATO PARA VER O NOME DE CADA COUSA</pe>
+              <imaxe>ciclo4.JPG</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="429" posy="257">Evaporación</etiqueta>
+              <etiqueta posx="412" posy="100">Condensación</etiqueta>
+              <etiqueta posx="292" posy="144">Chuvia</etiqueta>
+              <etiqueta posx="122" posy="92">Neve</etiqueta>
+              <etiqueta posx="78" posy="184">Filtración</etiqueta>
+              <etiqueta posx="111" posy="268">Augas subterráneas</etiqueta>
+        </paxina>
+        <paxina id="16" >
+              <tipo>50</tipo>
+              <cabeceira>PRECIPITACIÓNS. COMO SE CHAMA CADA UNHA?</cabeceira>
+              <pe>ARRASTRA CADA LETRA AO SEU LUGAR</pe>
+              <peza imaxe="solido.JPG"  son="">Ne_ve</peza>
+              <peza imaxe="ciclo2.JPG"  son="">Ch_u_vi_a</peza>
+              <peza imaxe="nubes.JPG"  son="">S_ar_a_i_ba</peza>
+        </paxina>
+        <paxina id="17" >
+              <tipo>3</tipo>
+              <cabeceira>A AUGA E O OCIO</cabeceira>
+              <imaxe>puzzle1.JPG</imaxe>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="18" >
+              <tipo>3</tipo>
+              <cabeceira>PRECIPITACIÓNS: A CHUVIA</cabeceira>
+              <pe>FAI O PUZZLE E VERÁS UN CADRO DE VAN GOGH QUE REPRESENTA UN DÍA DE CHUVIA</pe>
+              <imaxe>van_goht.JPG</imaxe>
+              <filas>4</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>2</tipo>
+              <cabeceira>USOS DA AUGA</cabeceira>
+              <imaxe posx="0" posy="-1">usos.JPG</imaxe>
+              <texto posx="475" posy="50" ancho="371" largo="331"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Arial" size="18">Cada día consumimos auga para moitos usos: dende a ducha da mañá ata a que bebemos, pasando pola que se utiliza para limpar ou regar, fabricar obxectos, apagar incendios...estamos constantemente utilizando unha parte desa auga que a natureza ten en permanente circulación no seu ciclo hidrolóxico.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="20" >
+              <tipo>2</tipo>
+              <cabeceira>USOS DA AUGA: O USO DOMÉSTICO</cabeceira>
+              <imaxe posx="0" posy="0">uso1.JPG</imaxe>
+              <texto posx="398" posy="145" ancho="266" largo="202"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Arial" size="18">Na nosa casa usamos auga para lavarnos, cociñar, lavar a roupa...Iso chámase uso doméstico da auga.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="21" >
+              <tipo>17</tipo>
+              <cabeceira>CADA OVELLA COA SÚA PARELLA</cabeceira>
+              <parellas>auga.JPG</parellas>
+              <parellas>ciclo2.JPG</parellas>
+              <parellas>doce_salgada.JPG</parellas>
+              <parellas>iceberg.JPG</parellas>
+              <parellas>planeta.JPG</parellas>
+              <parellas>xeo.JPG</parellas>
+              <cfondo>0080C0</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="22" >
+              <tipo>2</tipo>
+              <cabeceira>USOS DA AUGA: USO INDUSTRIAL</cabeceira>
+              <imaxe posx="0" posy="0">uso2.JPG</imaxe>
+              <texto posx="406" posy="126" ancho="440" largo="203"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Arial" size="18">Tamén nas industrias se usa auga para fabricar os obxectos.<br>
+Iso chámase uso industrial da auga.<br>
+Sabías que para fabricar un quilo de papel úsanse case 300 litros de auga?</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="23" >
+              <tipo>3</tipo>
+              <cabeceira>A AUGA E O OCIO</cabeceira>
+              <imaxe>uso3.JPG</imaxe>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="24" >
+              <tipo>2</tipo>
+              <cabeceira>USOS DA AUGA: USO AGRÍCOLA</cabeceira>
+              <imaxe posx="310" posy="64">riego.JPG</imaxe>
+              <texto posx="0" posy="55" ancho="312" largo="177"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Arial" size="18">Outro dos usos da auga é o uso agrícola: cando usamos a auga para regar os vexetais que cultivamos para comer.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="25" >
+              <tipo>14</tipo>
+              <cabeceira>USOS DA AUGA. UNE</cabeceira>
+              <pe>UNE CADA IMAXE CO TEXTO CORRESPONDENTE</pe>
+              <peza imaxe="" texto="Uso agrícola" son="">riego.JPG</peza>
+              <peza imaxe="" texto="Uso doméstico" son="">nosopapel1.JPG</peza>
+              <peza imaxe="" texto="Uso industrial" son="">uso2.JPG</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="26" >
+              <tipo>19</tipo>
+              <cabeceira>USOS DA AUGA</cabeceira>
+              <imaxe>velero.JPG</imaxe>
+              <texto><![CDATA[A auga tamén serve como vía de comunicación, porque por ela podemos...]]></texto>
+              <resp texto="">navegar</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="27" >
+              <tipo>4</tipo>
+              <cabeceira>USOS DA AUGA</cabeceira>
+              <pe>BUSCA NA SOPA DE LETRAS 8 DOS MOITOS USOS POSIBLES DA AUGA</pe>
+              <modo>2</modo>
+              <sopa enun="lavar.JPG">lavar</sopa>
+              <sopa enun="nosopapel1.JPG">ducharse</sopa>
+              <sopa enun="uso3.JPG">divertirse</sopa>
+              <sopa enun="velero.JPG">navegar</sopa>
+              <sopa enun="fregar.JPG">fregar</sopa>
+              <sopa enun="beber.JPG">beber</sopa>
+              <sopa enun="usos.JPG">regar</sopa>
+              <sopa enun="puzzle1.JPG">pescar</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="28" >
+              <tipo>2</tipo>
+              <cabeceira>O NOSO PAPEL: O AFORRO</cabeceira>
+              <imaxe posx="0" posy="0">nosopapel.JPG</imaxe>
+              <texto posx="285" posy="97" ancho="561" largo="258"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Arial" size="18">Hai moitos xeitos de aforrar auga: <br>
+<br>
+</font></p>
+<p align="left">
+<font color="#0000FF" face="Arial" size="18"><li>Ducharse en vez de bañarse</li>
+<li>Pechar a billa cando lavamos os dentes ou mentres enxabronamos os pratos</li>
+<li>Poñer perlizadores nas billas, para que pareza que botan máis auga</li>
+<li>Poñer unha botella dentro da cisterna</li></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="29" >
+              <tipo>19</tipo>
+              <cabeceira>O NOSO PAPEL: AFORRANDO AUGA</cabeceira>
+              <pe>PINCHA NAS LETRAS PARA FORMAR A PALABRA CORRECTA</pe>
+              <imaxe>nosopapel1.JPG</imaxe>
+              <texto><![CDATA[Unha maneira sinxela de aforrar auga é, en vez de bañarnos.....]]></texto>
+              <resp texto="">ducharnos</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="30" >
+              <tipo>19</tipo>
+              <cabeceira>O NOSO PAPEL: AFORRANDO AUGA</cabeceira>
+              <pe>PINCHA NAS LETRAS PARA FORMAR A PALABRA CORRECTA</pe>
+              <imaxe>perlizador.JPG</imaxe>
+              <texto><![CDATA[Para gastar menos auga, podemos instalar nas billas uns mecanismos que mesturan a auga con aire, para que pareza que sae máis auga. Chámanse...]]></texto>
+              <resp texto="">perlizadores</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="31" >
+              <tipo>50</tipo>
+              <cabeceira>NUNCA DEBEN IR POLO VERTEDOIRO!! HAI QUE LEVALOS AO PUNTO LIMPO</cabeceira>
+              <pe>ARRASTRA AS LETRAS PARA COMPLETAR AS PALABRAS</pe>
+              <peza imaxe="aceite.JPG"  son="">_a_cei_te</peza>
+              <peza imaxe="medicamentos.JPG"  son="">m_e_di_ca_men_to_s</peza>
+              <peza imaxe="nosopapel2.JPG"  son="">_pin_tu_ra</peza>
+        </paxina>
+        <paxina id="32" >
+              <tipo>2</tipo>
+              <cabeceira>A AUGA: O BEN MÁIS IMPORTANTE</cabeceira>
+              <imaxe posx="0" posy="0">fin.JPG</imaxe>
+              <texto posx="345" posy="90" ancho="303" largo="169"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Arial" size="18">A auga é fundamental para todos os seres vivos.<br>
+Xoguemos limpo con ela!</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>
